@@ -1,0 +1,382 @@
+Tue Dec 17 00:32:52 2024
+: Program started
+Tue Dec 17 01:16:36 2024
+: Program started
+Tue Dec 17 01:16:39 2024
+: 10
+Tue Dec 17 01:16:41 2024
+: n
+Tue Dec 17 01:16:43 2024
+: n
+Tue Dec 17 01:16:44 2024
+: n
+Tue Dec 17 01:16:47 2024
+: 14
+Tue Dec 17 01:17:36 2024
+: Program started
+Tue Dec 17 01:17:38 2024
+: 10
+Tue Dec 17 01:17:38 2024
+: n
+Tue Dec 17 01:17:40 2024
+: n
+Tue Dec 17 01:17:41 2024
+: n
+Tue Dec 17 01:17:43 2024
+: 14
+Tue Dec 17 01:17:47 2024
+: 
+Tue Dec 17 01:17:59 2024
+: 14
+Tue Dec 17 01:18:06 2024
+: 
+Tue Dec 17 01:18:14 2024
+: 3
+Tue Dec 17 01:18:22 2024
+: 4
+Tue Dec 17 01:18:25 2024
+: 0
+Tue Dec 17 01:18:29 2024
+: 0
+Tue Dec 17 01:18:31 2024
+: f
+Tue Dec 17 01:18:33 2024
+: 14
+Tue Dec 17 01:18:35 2024
+: 
+Tue Dec 17 01:18:40 2024
+: 14
+Tue Dec 17 01:18:42 2024
+: 
+Tue Dec 17 01:19:00 2024
+: Program started
+Tue Dec 17 01:19:03 2024
+: 10
+Tue Dec 17 01:19:04 2024
+: n
+Tue Dec 17 01:19:05 2024
+: n
+Tue Dec 17 01:19:06 2024
+: n
+Tue Dec 17 01:19:09 2024
+: 11
+Tue Dec 17 01:19:15 2024
+: n
+Tue Dec 17 01:19:16 2024
+: n
+Tue Dec 17 01:19:18 2024
+: 12
+Tue Dec 17 01:19:34 2024
+: 11
+Tue Dec 17 01:19:44 2024
+: n
+Tue Dec 17 01:19:44 2024
+: n
+Tue Dec 17 01:19:45 2024
+: 12
+Tue Dec 17 01:19:58 2024
+: 14
+Tue Dec 17 01:20:02 2024
+: 
+Tue Dec 17 01:20:31 2024
+: Program started
+Tue Dec 17 01:20:33 2024
+: 10
+Tue Dec 17 01:20:36 2024
+: 1
+Tue Dec 17 01:20:44 2024
+: Program started
+Tue Dec 17 01:20:46 2024
+: 10
+Tue Dec 17 01:20:48 2024
+: n
+Tue Dec 17 01:20:52 2024
+: n
+Tue Dec 17 01:20:53 2024
+: n
+Tue Dec 17 01:20:57 2024
+: 11
+Tue Dec 17 01:21:01 2024
+: n
+Tue Dec 17 01:21:02 2024
+: n
+Tue Dec 17 01:21:07 2024
+: 4
+Tue Dec 17 01:21:09 2024
+: 0
+Tue Dec 17 01:21:10 2024
+: f
+Tue Dec 17 01:21:13 2024
+: 4
+Tue Dec 17 01:21:14 2024
+: 1
+Tue Dec 17 01:21:14 2024
+: f
+Tue Dec 17 01:21:16 2024
+: 14
+Tue Dec 17 01:21:19 2024
+: 
+Tue Dec 17 01:24:58 2024
+: Program started
+Tue Dec 17 01:25:01 2024
+: 10
+Tue Dec 17 01:25:02 2024
+: â
+Tue Dec 17 01:25:04 2024
+: n
+Tue Dec 17 01:25:05 2024
+: n
+Tue Dec 17 01:25:09 2024
+: 4
+Tue Dec 17 01:25:10 2024
+: 0
+Tue Dec 17 01:25:10 2024
+: f
+Tue Dec 17 01:25:13 2024
+: 14
+Tue Dec 17 01:25:14 2024
+: 
+Tue Dec 17 01:25:37 2024
+: Program started
+Tue Dec 17 01:29:05 2024
+: Program started
+Tue Dec 17 01:29:07 2024
+: 10
+Tue Dec 17 01:29:07 2024
+: n
+Tue Dec 17 01:29:09 2024
+: n
+Tue Dec 17 01:29:10 2024
+: n
+Tue Dec 17 01:29:17 2024
+: Program started
+Tue Dec 17 01:29:19 2024
+: 10
+Tue Dec 17 01:29:20 2024
+: n
+Tue Dec 17 01:29:22 2024
+: n
+Tue Dec 17 01:29:25 2024
+: n
+Tue Dec 17 01:29:31 2024
+: 4
+Tue Dec 17 01:29:32 2024
+: 0
+Tue Dec 17 01:29:33 2024
+: f
+Tue Dec 17 01:29:39 2024
+: 14
+Tue Dec 17 01:29:42 2024
+: 
+Tue Dec 17 01:30:29 2024
+: Program started
+Tue Dec 17 01:30:30 2024
+: 10
+Tue Dec 17 01:30:41 2024
+: Program started
+Tue Dec 17 01:30:42 2024
+: 10
+Tue Dec 17 01:30:43 2024
+: n
+Tue Dec 17 01:30:45 2024
+: n
+Tue Dec 17 01:30:47 2024
+: n
+Tue Dec 17 01:30:50 2024
+: 14
+Tue Dec 17 01:30:52 2024
+: 
+Tue Dec 17 01:31:04 2024
+: Program started
+Tue Dec 17 01:31:06 2024
+: 10
+Tue Dec 17 01:31:06 2024
+: n
+Tue Dec 17 01:31:08 2024
+: n
+Tue Dec 17 01:31:09 2024
+: n
+Tue Dec 17 01:31:12 2024
+: 14
+Tue Dec 17 01:31:39 2024
+: Program started
+Tue Dec 17 01:31:41 2024
+: 10
+Tue Dec 17 01:31:59 2024
+: Program started
+Tue Dec 17 01:32:01 2024
+: 10
+Tue Dec 17 01:32:01 2024
+: n
+Tue Dec 17 01:32:07 2024
+: Program started
+Tue Dec 17 01:32:08 2024
+: 10
+Tue Dec 17 01:32:09 2024
+: n
+Tue Dec 17 01:32:11 2024
+: n
+Tue Dec 17 01:32:14 2024
+: n
+Tue Dec 17 01:32:16 2024
+: 14
+Tue Dec 17 01:32:18 2024
+: 
+Tue Dec 17 01:32:22 2024
+: Program started
+Tue Dec 17 01:32:26 2024
+: 10
+Tue Dec 17 01:32:27 2024
+: n
+Tue Dec 17 01:32:28 2024
+: n
+Tue Dec 17 01:32:30 2024
+: n
+Tue Dec 17 01:32:32 2024
+: 14
+Tue Dec 17 01:33:41 2024
+: Program started
+Tue Dec 17 01:33:43 2024
+: 10
+Tue Dec 17 01:33:44 2024
+: n
+Tue Dec 17 01:33:46 2024
+: n
+Tue Dec 17 01:33:47 2024
+: n
+Tue Dec 17 01:33:50 2024
+: 14
+Tue Dec 17 01:36:24 2024
+: Program started
+Tue Dec 17 01:36:29 2024
+: 10
+Tue Dec 17 01:36:30 2024
+: ’
+Tue Dec 17 01:36:32 2024
+: N
+Tue Dec 17 01:36:34 2024
+: n
+Tue Dec 17 01:36:36 2024
+: 14
+Tue Dec 17 01:37:15 2024
+: Program started
+Tue Dec 17 01:37:17 2024
+: 10
+Tue Dec 17 01:37:19 2024
+: y
+Tue Dec 17 01:37:20 2024
+: 1
+Tue Dec 17 01:37:22 2024
+: 100
+Tue Dec 17 01:37:22 2024
+: 200
+Tue Dec 17 01:37:26 2024
+: f
+Tue Dec 17 01:37:29 2024
+: y
+Tue Dec 17 01:37:30 2024
+: 10
+Tue Dec 17 01:37:33 2024
+: 40
+Tue Dec 17 01:37:34 2024
+: 20
+Tue Dec 17 01:37:36 2024
+: 10
+Tue Dec 17 01:37:38 2024
+: y
+Tue Dec 17 01:37:40 2024
+: 80
+Tue Dec 17 01:37:43 2024
+: 80
+Tue Dec 17 01:37:45 2024
+: 70
+Tue Dec 17 01:37:46 2024
+: 2
+Tue Dec 17 01:37:48 2024
+: 14
+Tue Dec 17 01:37:50 2024
+: 
+Tue Dec 17 01:38:26 2024
+: Program started
+Tue Dec 17 01:38:30 2024
+: 10
+Tue Dec 17 01:38:31 2024
+: n
+Tue Dec 17 01:38:34 2024
+: n
+Tue Dec 17 01:38:36 2024
+: n
+Tue Dec 17 01:38:38 2024
+: 14
+Tue Dec 17 01:38:40 2024
+: 
+Tue Dec 17 01:41:20 2024
+: Program started
+Tue Dec 17 01:41:22 2024
+: 10
+Tue Dec 17 01:41:23 2024
+: n
+Tue Dec 17 01:41:26 2024
+: n
+Tue Dec 17 01:41:27 2024
+: n
+Tue Dec 17 01:41:29 2024
+: 14
+Tue Dec 17 01:41:30 2024
+: 
+Tue Dec 17 01:43:44 2024
+: Program started
+Tue Dec 17 01:43:45 2024
+: 10
+Tue Dec 17 01:43:45 2024
+: n
+Tue Dec 17 01:43:47 2024
+: n
+Tue Dec 17 01:43:50 2024
+: n
+Tue Dec 17 01:43:52 2024
+: 14
+Tue Dec 17 01:43:53 2024
+: 
+Tue Dec 17 01:44:13 2024
+: Program started
+Tue Dec 17 01:44:15 2024
+: 10
+Tue Dec 17 01:44:15 2024
+: n
+Tue Dec 17 01:44:17 2024
+: n
+Tue Dec 17 01:44:19 2024
+: n
+Tue Dec 17 01:44:21 2024
+: 14
+Tue Dec 17 01:44:22 2024
+: 
+Tue Dec 17 01:44:40 2024
+: Program started
+Tue Dec 17 01:44:42 2024
+: 10
+Tue Dec 17 01:44:42 2024
+: n
+Tue Dec 17 01:44:44 2024
+: n
+Tue Dec 17 01:44:49 2024
+: n
+Tue Dec 17 01:44:51 2024
+: 14
+Tue Dec 17 01:46:21 2024
+: Program started
+Tue Dec 17 01:46:23 2024
+: Program started
+Tue Dec 17 01:46:25 2024
+: 10
+Tue Dec 17 01:46:25 2024
+: n
+Tue Dec 17 01:46:27 2024
+: n
+Tue Dec 17 01:46:29 2024
+: n
+Tue Dec 17 01:46:31 2024
+: 14
+Tue Dec 17 01:46:32 2024
+: 
